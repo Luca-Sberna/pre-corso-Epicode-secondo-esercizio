@@ -1,0 +1,46 @@
+#check {
+  color: red;
+  margin-top: 1rem;
+  margin-bottom: 8rem;
+  perspective: 1rem;
+  align-items: center;
+}
+body {
+  background-image: url("../asset/Animated-Gif-Images-Download.gif");
+
+  text-align: center;
+}
+#p {
+  color: rgb(1, 1, 1);
+  font-size: 25px;
+}
+h2 {
+  color: red;
+  font-size: 30px;
+}
+input {
+  font-size: 25px;
+}
+h1 {
+  font-size: 50px;
+}
+button {
+  font-size: 20px;
+}
+#text {
+  box-shadow: 2px 4px 4px 4px;
+  display: inline-block;
+  color: red;
+  margin: 1rem;
+}
+#chck {
+  box-shadow: 0px 0px 0px 4px red;
+  display: inline-block;
+  margin-top: 2rem;
+}
+button {
+  color: red;
+  box-shadow: 3px 3px;
+  padding: 10px;
+  background-color: rgb(9, 227, 49);
+}
